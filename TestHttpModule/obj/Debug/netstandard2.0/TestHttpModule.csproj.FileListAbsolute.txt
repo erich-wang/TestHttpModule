@@ -1,0 +1,9 @@
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\bin\Debug\netstandard2.0\TestHttpModule.deps.json
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\bin\Debug\netstandard2.0\TestHttpModule.dll
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\bin\Debug\netstandard2.0\TestHttpModule.pdb
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\obj\Debug\netstandard2.0\TestHttpModule.AssemblyInfoInputs.cache
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\obj\Debug\netstandard2.0\TestHttpModule.AssemblyInfo.cs
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\obj\Debug\netstandard2.0\TestHttpModule.csproj.CoreCompileInputs.cache
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\obj\Debug\netstandard2.0\TestHttpModule.dll
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\obj\Debug\netstandard2.0\TestHttpModule.pdb
+C:\Users\eriwan.FAREAST\source\repos\TestHttpModule\TestHttpModule\bin\Debug\netstandard2.0\TestHttpModule.psd1

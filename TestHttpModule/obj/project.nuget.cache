@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxD/hCEWm3HDwAZxmPEShXcxSQclppqR+XVWprhMcwTW5Cmbv5CQ8Slln2VlZpEqjGYOHr75QzKZeSlkThusjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eriwan.FAREAST\\source\\repos\\TestHttpModule\\TestHttpModule\\TestHttpModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eriwan.FAREAST\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\eriwan.FAREAST\\.nuget\\packages\\powershellstandard.library\\5.1.0\\powershellstandard.library.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

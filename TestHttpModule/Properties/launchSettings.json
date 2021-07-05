@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestHttpModule": {
+      "commandName": "Executable",
+      "executablePath": "pwsh",
+      "commandLineArgs": "-NoExit -Command \"import-module \"C:\\Users\\eriwan.FAREAST\\source\\repos\\TestHttpModule\\TestHttpModule\\bin\\Debug\\netstandard2.0\\TestHttpModule.psd1\""
+    }
+  }
+}
